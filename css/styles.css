@@ -1,15 +1,19 @@
 /***************Tag Selectors ************/
-
 body {
+  margin: 0;
   background-color: #d1cebd;
+}
 
+h1{
+  margin-top: 0;
 }
 
 hr {
-background-color: white;
-border-style: none;
-height: 2.5px;
-<!-- width: 1100px; -->
+  background-color: white;
+  border-style: none;
+  height: 2.5px;
+  < !-- width: 1100px;
+  -->
 }
 
 div {
@@ -17,7 +21,6 @@ div {
 }
 
 /***************Class Selectors ************/
-.moebius
-{
-height: 500px;
+.moebius {
+  height: 500px;
 }
