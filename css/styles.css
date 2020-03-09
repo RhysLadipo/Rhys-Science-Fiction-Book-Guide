@@ -1,0 +1,23 @@
+/***************Tag Selectors ************/
+
+body {
+  background-color: #d1cebd;
+
+}
+
+hr {
+background-color: white;
+border-style: none;
+height: 2.5px;
+<!-- width: 1100px; -->
+}
+
+div {
+  background-color: #f6eedf;
+}
+
+/***************Class Selectors ************/
+.moebius
+{
+height: 500px;
+}
